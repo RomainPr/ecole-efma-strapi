@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_header_buttons",
+  "info": {
+    "displayName": "button",
+    "icon": "wallet"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

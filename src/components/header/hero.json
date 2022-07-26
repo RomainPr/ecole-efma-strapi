@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_header_heroes",
+  "info": {
+    "displayName": "Hero",
+    "icon": "child",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "text"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "header.button"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}
