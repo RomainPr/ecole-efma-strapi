@@ -32,6 +32,12 @@
       "components": [
         "blocks.section"
       ]
+    },
+    "section3": {
+      "type": "dynamiczone",
+      "components": [
+        "blocks.section"
+      ]
     }
   }
 }
