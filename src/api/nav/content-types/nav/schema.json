@@ -4,8 +4,7 @@
   "info": {
     "singularName": "nav",
     "pluralName": "navs",
-    "displayName": "nav",
-    "description": ""
+    "displayName": "nav"
   },
   "options": {
     "draftAndPublish": true
@@ -17,10 +16,6 @@
     },
     "slug": {
       "type": "string"
-    },
-    "logo": {
-      "type": "dynamiczone",
-      "components": []
     }
   }
 }

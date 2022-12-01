@@ -2,8 +2,7 @@
   "collectionName": "components_header_heroes",
   "info": {
     "displayName": "Hero",
-    "icon": "child",
-    "description": ""
+    "icon": "align-justify"
   },
   "options": {},
   "attributes": {
@@ -11,15 +10,14 @@
       "type": "text"
     },
     "image": {
-      "type": "media",
-      "multiple": false,
-      "required": false,
       "allowedTypes": [
         "images",
         "files",
         "videos",
         "audios"
-      ]
+      ],
+      "type": "media",
+      "multiple": false
     },
     "button": {
       "type": "component",

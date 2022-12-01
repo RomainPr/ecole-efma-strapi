@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- *  event controller
+ * event controller
  */
 
 const { createCoreController } = require('@strapi/strapi').factories;

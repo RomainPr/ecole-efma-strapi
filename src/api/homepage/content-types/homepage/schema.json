@@ -36,7 +36,8 @@
     "section3": {
       "type": "dynamiczone",
       "components": [
-        "blocks.section"
+        "blocks.section",
+        "blocks.events"
       ]
     }
   }

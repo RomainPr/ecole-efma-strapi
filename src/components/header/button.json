@@ -1,8 +1,8 @@
 {
   "collectionName": "components_header_buttons",
   "info": {
-    "displayName": "button",
-    "icon": "wallet"
+    "displayName": "Button",
+    "icon": "dice-d6"
   },
   "options": {},
   "attributes": {

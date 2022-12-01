@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * event service.
+ * event service
  */
 
 const { createCoreService } = require('@strapi/strapi').factories;

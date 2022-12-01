@@ -11,26 +11,10 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "image": {
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ],
-      "type": "media",
-      "multiple": false
-    },
-    "title": {
-      "type": "string"
-    },
-    "description": {
-      "type": "string"
-    },
-    "button": {
+    "events": {
       "type": "component",
-      "repeatable": false,
-      "component": "header.button"
+      "repeatable": true,
+      "component": "blocks.events"
     }
   }
 }
